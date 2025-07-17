@@ -1,0 +1,53 @@
+body{
+    background-color: gainsboro;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 11px; /* la taille de la police*/
+}
+
+h1{
+    text-align: center;
+}
+h2{
+     text-align: center;
+}
+p{
+    text-align: center;
+}
+
+.img{
+    background-color: white;
+    margin: 20px; 
+}
+img{
+    display: block;
+    width: 700px;
+    margin: auto;
+}
+ul{
+    text-align: left;
+    max-width: 400px;
+    margin: auto;
+}
+.citation{ 
+    color: gray; /* la couleur de la police*/
+    margin: auto;
+    max-width: 400px;
+    text-align: left;
+}
+
+p{
+    color: gray;
+}
+li{
+    color: gray;
+}
+#img1{
+    width: 200px;
+    height: auto;
+}
+footer{
+     font-family: Arial, Helvetica, sans-serif;
+     font-size: 9px;
+     text-align: center;
+}
+
